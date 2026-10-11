@@ -1,7 +1,7 @@
 # dotnet10-sse-angular-demo
 
-Companion repo for **"Live updates from .NET 10 to Angular with Server-Sent Events"**
-([gdhami.net](https://gdhami.net), link added when the post is live).
+Companion repo for the post
+[Live updates from .NET 10 to Angular with Server-Sent Events](https://gdhami.net/blog/live-updates-from-net-10-to-angular-with-server-sent-events).
 
 A .NET 10 minimal API streams job progress with `TypedResults.ServerSentEvents`,
 and an Angular 22 page reads it with the browser's own `EventSource`, wrapped
